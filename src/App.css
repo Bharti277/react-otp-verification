@@ -1,0 +1,16 @@
+.app {
+  text-align: center;
+  margin: 5rem;
+}
+.otpInput {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  text-align: center;
+}
+.otp__number {
+  margin: 2rem;
+}
+form input {
+  margin: 2rem 0;
+}
